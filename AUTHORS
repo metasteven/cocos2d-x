@@ -458,6 +458,9 @@ Developers:
         
     seagullua
         Fixes the font rendering on Windows
+        
+    G17hao
+        Fixed bugs in CCBone
 
 Retired Core Developers:
     WenSheng Yang
